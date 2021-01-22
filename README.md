@@ -34,8 +34,8 @@
 
 ### Configuração de Ambiente
 
-1. [Material necessário:](/src/2-Ambiente/1-Material-necessario.md)
-1. [Diagrama de ligação:](/src/2-Ambiente/2-Diagrama-de-ligacao.md)
+1. [Material necessário](/src/2-Ambiente/1-Material-necessario.md)
+1. [Diagrama de ligação](/src/2-Ambiente/2-Diagrama-de-ligacao.md)
 
 ### Execução
 
