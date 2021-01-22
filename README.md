@@ -12,9 +12,9 @@
 </h1>
   
   <p align="center">
-    <a href="https://github.com/GiganteDev/Arduino-LED/issues">Report Bug</a>
+    <a href="https://github.com/GiganteDev/Arduino-LED-LDR/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GiganteDev/Arduino-LED/issues">Request Feature</a>
+    <a href="https://github.com/GiganteDev/Arduino-LED-LDR/issues">Request Feature</a>
   </p>
 </p>
 
